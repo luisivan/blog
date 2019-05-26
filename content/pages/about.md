@@ -3,10 +3,33 @@ title: "About me"
 template: "page"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+I am a freedom fighter creating tools for human liberation.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+I love technology, music and design. I also enjoy long-term thinking and writing.
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+I have strong opinions, weakly held.
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+Founded:
+- [Aragon](https://aragon.org)
+- [Witnet](https://witnet.io) + [Stampery](https://stampery.com)
+- A handful of failed startups
+- [Asturix](https://en.wikipedia.org/wiki/Asturix)
+
+Whitepapers:
+- [Aragon Network: A decentralized infrastructure for value exchange (2017)](https://github.com/aragon/whitepaper/raw/v1/Aragon%20Whitepaper.pdf)
+- [Witnet: A Decentralized Oracle Network Protocol (2017)](https://arxiv.org/abs/1711.09756)
+- [Stampery Blockchain Timestamping Architecture (2016)](https://arxiv.org/abs/1711.04709)
+
+Awards and recognitions:
+- [MIT TR35](https://www.innovatorsunder35.com/the-list/luis-cuende/)
+- [Forbes 30 Under 30](http://www.forbes.com/30-under-30-europe-2016/technology/)
+- [Best underage hacker of Europe (2011)](https://blog.hackfwd.com/post/10517597027/hacknow-winner-luis-iván-cuende)
+
+
+Advising/advised:
+- [Keep Network](https://keep.network)
+- [Decentraland](https://decentraland.org)
+- [Status](https://status.im)
+- [district0x](https://district0x.io)
+- [Primitive](http://primitive.io)
+- [European Commission](http://ec.europa.eu/transparency/regexpert/index.cfm?do=memberDetail.memberDetail&memberID=44682&orig=group)

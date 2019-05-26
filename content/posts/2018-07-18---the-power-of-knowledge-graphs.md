@@ -3,7 +3,7 @@ title: The power of knowledge graphs
 date: "2018-07-18"
 template: "post"
 draft: false
-slug: "/the-power-of-knowledge-graphs-7755f29fa2a"
+slug: "/the-power-of-knowledge-graphs-7755f29fa2ab"
 category: "Productivity"
 description: "Reducing the gap between language and code"
 ---

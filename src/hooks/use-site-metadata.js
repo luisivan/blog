@@ -14,8 +14,8 @@ const useSiteMetadata = () => {
               photo
               contacts {
                 twitter
-                keybase
                 github
+                keybase
                 rss
               }
             }
