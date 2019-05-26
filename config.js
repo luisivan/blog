@@ -6,7 +6,7 @@ module.exports = {
   subtitle: 'Free thoughts by Luis Cuende',
   copyright: '',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 5,
   menu: [
     {
       label: 'Posts',
@@ -20,14 +20,17 @@ module.exports = {
   author: {
     name: 'Luis Cuende',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'CEO of <a target="_blank" href="https://aragon.one">Aragon One</a>. Cofounder of <a target="_blank" href="https://aragon.org">Aragon</a>. Freedom fighter.',
+    homeBio: `CEO of <a target="_blank" href="https://aragon.one">Aragon One</a>.
+              <br>
+              Cofounder of <a target="_blank" href="https://aragon.org">Aragon</a>.
+              <br>
+              Freedom fighter.`,
     contacts: {
-      email: 'https://21.co/luis',
-      telegram: '#',
       twitter: 'licuende',
+      keybase: 'li',
       github: 'luisivan',
       rss: '#',
-      vkontakte: '#'
     }
   }
 };

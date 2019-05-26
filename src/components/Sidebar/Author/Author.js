@@ -7,6 +7,7 @@ type Props = {
   author: {
     name: string,
     bio: string,
+    homeBio: string,
     photo: string
   },
   isIndex: ?boolean
@@ -33,7 +34,7 @@ const Author = ({ author, isIndex }: Props) => (
         <Link className={styles['author__title-link']} to="/">{author.name}</Link>
       </h2>
     )}
-    <p className={styles['author__subtitle']}>{author.bio}</p>
+    <p className={styles['author__subtitle']} dangerouslySetInnerHTML={{__html: author.homeBio}} />
   </div>
 );
 
