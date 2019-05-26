@@ -33,7 +33,8 @@ There are quite a few problems with centralized social networks:
 * **Manipulation**: Which news should you see first? Which friends matter the most for you? This can go to the creepiest levels. How do you want to feel about your friends? How are you feeling now and what would make you feel better? That’s happening right now, because giving people what they want is what drives user retention.
 
 * **No freedom of expression**. You don’t say what you really want to say if you are being constantly monitored. Everything you say can be used against you.
-> Saying you don’t care about privacy because you have nothing to hide is like saying you don’t care about free speech because you have nothing to say.
+
+> Saying you don’t care about privacy because you have nothing to hide is like saying you don’t care about free speech because you have nothing to say.<br><br>
 > Edward Snowden
 
 ## Don’t be owned, own your data

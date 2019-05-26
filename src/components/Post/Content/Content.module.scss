@@ -54,6 +54,19 @@
       max-width: 100%;
     }
 
+    & blockquote > p {
+      text-align: left;
+      font-size: 1.25rem;
+      @include line-height(1.25);
+      @include margin(2.5, 0);
+      @include padding(0, 0.5);
+      border-left: 4px $color-secondary solid;
+    }
+
+    & hr {
+      color: $color-secondary;
+      background-image: linear-gradient(to bottom, transparent 1px, transparent 11px, $color-secondary 11px, $color-secondary 15px, transparent 15px, transparent 26px);
+    }
   }
 
 }
@@ -80,6 +93,10 @@
         @include margin-bottom(1.125)
       }
 
+      & blockquote > p {
+        @include margin(2.5, 0);
+        @include padding(0, 2);
+      }
     }
 
   }

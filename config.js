@@ -28,8 +28,8 @@ module.exports = {
               Freedom fighter.`,
     contacts: {
       twitter: 'licuende',
-      keybase: 'li',
       github: 'luisivan',
+      keybase: 'li',
       rss: '#',
     }
   }
