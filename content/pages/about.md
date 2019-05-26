@@ -3,6 +3,8 @@ title: "About me"
 template: "page"
 ---
 
+![The way forward](/media/sand.jpg)
+
 I am a freedom fighter creating tools for human liberation.
 
 I love technology, music and design. I also enjoy long-term thinking and writing.
