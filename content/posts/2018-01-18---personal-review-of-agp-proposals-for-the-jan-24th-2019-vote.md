@@ -15,7 +15,7 @@ description: "With the next AGP vote around the corner, I wrote an overview of t
 
 I wanted to do a quick summary, since decentralized governance is very new and may seem daunting.
 
-First of all, a first disclaimer: My intention is **not to influence voting behavior**. This post aims to be as neutral as possible. That is why it’s coming from my personal Medium account. I have **ordered AGPs by number **with neutrality in mind too.
+First of all, a first disclaimer: My intention is **not to influence voting behavior**. This post aims to be as neutral as possible. That is why it’s coming from my personal Medium account. I have **ordered AGPs by number** with neutrality in mind too.
 
 Now, a second disclaimer: I don’t aim to vote with all my tokens, except force majeure situations. I may vote with just 1 ANT to go through the voting experience.
 
