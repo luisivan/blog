@@ -43,7 +43,7 @@ For example, motorbike would be roughly defined as follows:
 
 ![](https://cdn-images-1.medium.com/max/2000/1*IZ11zX-6SC0AcbM_1zz4ZQ.png)
 
-Of course this would be inside an infinite graph, so *Motorbike* would be related to *Transportation *somehow and *Battery* would be indirectly related to *Wind* or *Solar.*
+Of course this would be inside an infinite graph, so *Motorbike* would be related to *Transportation* somehow and *Battery* would be indirectly related to *Wind* or *Solar*.
 
 Also, the above could be expressed as code:
 
