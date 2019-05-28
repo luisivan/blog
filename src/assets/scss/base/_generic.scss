@@ -30,6 +30,9 @@ h6 {
 
 h1 {
   font-size: $typographic-base-font-size * 2.5;
+  background: linear-gradient(120deg, $color-secondary -25%, $color-primary 55%);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
   @include line-height(2);
   @include margin-top(4);
   @include margin-bottom(1);
@@ -94,6 +97,7 @@ hr {
 a {
   color: $typographic-link-p-font-color;
   text-decoration: none;
+  transition: all 0.2s ease-in-out;
 
   &:hover,
   &:focus,

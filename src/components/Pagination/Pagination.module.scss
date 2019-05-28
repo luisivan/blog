@@ -5,23 +5,27 @@
   @include margin-top(2);
   display: flex;
 
+  > div a {
+    background: linear-gradient(120deg, $color-secondary -25%, $color-primary 55%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
   &__prev {
     width: 50%;
     text-align: left;
 
     &-link {
-      color: $color-secondary;
       font-size: 26px;
       font-weight: bold;
 
       &:hover,
       &:focus {
-        color: $color-primary;
+        opacity: 0.8;
       }
 
       &--disable {
-        pointer-events: none;
-        color: lighten($color-gray, 20%);
+        display: none;
       }
 
     }
@@ -33,18 +37,16 @@
     text-align: right;
 
     &-link {
-      color: $color-secondary;
       font-size: 26px;
       font-weight: bold;
 
       &:hover,
       &:focus {
-        color: $color-primary;
+        opacity: 0.8;
       }
 
       &--disable {
-        pointer-events: none;
-        color: lighten($color-gray, 20%);
+        display: none;
       }
 
     }
