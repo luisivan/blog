@@ -48,6 +48,8 @@ During this blog series, I want to cover topics like:
 
 * Digging deep into topics by having topic-based days
 
+* [Processing what you read](/posts/processing-reads)
+
 * Freeing the mind during the weekend
 
 * Escaping from undesired inputs by filtering notifications
