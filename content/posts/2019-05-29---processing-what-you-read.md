@@ -1,13 +1,14 @@
 ---
 title: Processing what you read
-date: "2019-05-29"
-template: "post"
+date: 2019-05-29
+template: post
 draft: false
-slug: "/posts/processing-reads"
-category: "Productivity"
+slug: /posts/processing-reads
+category: Productivity
 tags:
-  - "Productivity"
-description: "Tools and processes to make sure you take advantage of what you read"
+  - Productivity
+description: Tools and processes to make sure you take advantage of what you read
+image: /media/readwise.png
 ---
 
 ![ReadWise](/media/readwise.png)

@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://luisivan.net',
   title: 'Thoughtcrime',
   subtitle: 'Free thoughts by Luis Cuende',
   copyright: '',
