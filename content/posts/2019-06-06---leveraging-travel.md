@@ -1,13 +1,13 @@
 ---
-title: Controlling travel
+title: Leveraging travel
 date: "2019-06-03"
 template: "post"
 draft: false
-slug: "/controlling-travel"
+slug: "/leveraging-travel"
 category: "Productivity"
 tags:
   - Productivity
-description: "Controlling travel so it doesn’t destroy your productivity"
+description: "Leveraging travel so it helps you be more creative and productive"
 
 ---
 
