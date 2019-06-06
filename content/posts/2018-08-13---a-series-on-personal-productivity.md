@@ -58,7 +58,7 @@ During this blog series, I want to cover topics like:
 
 * Setting up a nice digital workspace
 
-* Controlling travel so it doesn’t get into the way
+* [Controlling travel so it doesn’t get into the way](https://luisivan.net/controlling-travel)
 
 * Scheduling calls so all your time doesn’t get consumed by others
 
