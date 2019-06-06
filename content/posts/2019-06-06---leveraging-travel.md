@@ -1,6 +1,6 @@
 ---
 title: Leveraging travel
-date: "2019-06-03"
+date: "2019-06-06"
 template: "post"
 draft: false
 slug: "/leveraging-travel"
