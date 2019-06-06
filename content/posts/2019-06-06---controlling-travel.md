@@ -21,7 +21,7 @@ But in short trips, the **investments you make into building a routine will be l
 
 So, should I cut off all the travel? Depends on what you are trying to optimize for.
 
-> You can either optimize for productivity or creativity, but not both
+> You can optimize for productivity or creativity, but not both
 
 If you need to be productive, there is no doubt that routine helps. Routine helps avoid distractions and reduce decision fatigue. You can just re-use your past decisions. Rinse and repeat.
 
