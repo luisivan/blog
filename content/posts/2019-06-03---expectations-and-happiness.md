@@ -16,7 +16,7 @@ Society, consumer media, Hollywood productions, even friends and parents create 
 
 Dreaming of **a world without those expectations is utopian**. You may for example think that the fashion industry creates impossible-to-meet beauty expectations. Why wouldn't they? It's directly beneficial for their business. We can create systems where incentives are not that evil, but **there will always be people trying to take advantage of others**.
 
-When we are kids, we dream big. I remember how I used to think that high school in Spain would be like those high school shows produced in Hollywood. Boom, myth busted. You hit reality. And you hit it at a very early age. Biting the sand is hard, specially when you are young and **cannot rationalize why things are the way they are**.
+When we are kids, we dream big. I remember how I used to think that high school in Spain would be like those high school shows produced in Hollywood. Boom, myth busted. You hit reality. And you hit it at a very early age. Biting the sand is hard, especially when you are young and **cannot rationalize why things are the way they are**.
 
 Over the years we stop dreaming big, discovering the reality around us. We meet evil people, we meet inept people, and we meet ourselves. It's hard to satisfy the dreams of your inner kid.
 
