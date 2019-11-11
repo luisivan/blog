@@ -24,8 +24,8 @@ module.exports = {
   author: {
     name: 'Luis Cuende',
     photo: '/photo.jpg',
-    bio: 'CEO of <a target="_blank" href="https://aragon.one">Aragon One</a>. Cofounder of <a target="_blank" href="https://aragon.org">Aragon</a>. Freedom fighter.',
-    homeBio: `CEO of <a target="_blank" href="https://aragon.one">Aragon One</a>.
+    bio: 'Executive Director of the Aragon Association. Cofounder of <a target="_blank" href="https://aragon.org">Aragon</a>. Freedom fighter.',
+    homeBio: `Executive Director of the Aragon Association.
               <br>
               Cofounder of <a target="_blank" href="https://aragon.org">Aragon</a>.
               <br>
