@@ -11,7 +11,9 @@ description: "Three years ago Aragon was born. When we started it, it was clear 
 
 ---
 
-I had a chat with someone that had existential doubts about crypto. He got into it seeing **it a new way to organize society, a way to increase freedom** and fairness for all. But he found speculation, short-term thinking and ultra-capitalism.
+I had a chat with someone that had existential doubts about crypto.
+
+He got into it seeing **it a new way to organize society, a way to increase freedom** and fairness for all. But he found speculation, short-term thinking and ultra-capitalism.
 
 Aren’t we just creating capitalism 2.0? Aren’t we giving birth to a new kind of elite? **Will this be yet another well intentioned revolution losing its way?**
 
@@ -25,7 +27,9 @@ I got into Bitcoin in 2011, and had my pessimistic over-correction a few years l
 
 In the end, my conclusion was the following: there isn’t a panacea that will solve all the world’s problems. Crypto isn’t a silver bullet.
 
-Yet looking at all the movements happening this century, so far **crypto has the highest work-to-positive-change ratio**. No other industry or movement tops it. Not AI, not genomics, not space exploration. Because as we know from history, technological advancement for the sake of itself ends up badly. If we **advance technology without re-questioning and re-building the fabric of our society, we will end up with great technology but no freedom**, and thus no humanity.
+Yet looking at all the movements happening this century, so far **crypto has the highest work-to-positive-change ratio**. No other industry or movement tops it. Not AI, not genomics, not space exploration. Because as we know from history, technological advancement for the sake of itself ends up badly.
+
+If we **advance technology without re-questioning and re-building the fabric of our society, we will end up with great technology but no freedom**, and thus no humanity.
 
 That’s why re-building society to increase freedom and fairness is the goal I optimize for. For that mission, **crypto is uniquely positioned**.
 
@@ -44,6 +48,8 @@ Because in the end, **a revolution is made of people**. And I couldn’t be more
 **Three years ago Aragon was born** as an idea to empower freedom. When we started it, it was clear that this would be a decade-long effort. Going from zero to one is never easy.
 
 But it is worth it. It is tough, but it needs to be done. It is the change the world needs. It is a breath of fresh air. We are doing it for ourselves, for our parents, for our brothers and sisters, for our children, and for everyone to whom the world hasn't been just.
+
+Crypto has the highest work-to-positive-change ratio among all tech industries, but **governance has the highest work-to-positive-change ratio** that we will likely see this century.
 
 To the next three years of our revolution,
 
