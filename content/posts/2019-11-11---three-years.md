@@ -27,7 +27,7 @@ I got into Bitcoin in 2011, and had my pessimistic over-correction a few years l
 
 In the end, my conclusion was the following: there isn’t a panacea that will solve all the world’s problems. Crypto isn’t a silver bullet.
 
-Yet looking at all the movements happening this century, so far **crypto has the highest work-to-positive-change ratio**. No other industry or movement tops it. Not AI, not genomics, not space exploration. Because as we know from history, technological advancement for the sake of itself ends up badly.
+Yet looking at all the movements happening this century, so far **crypto has the highest work-to-positive-change ratio**. No other industry or movement tops it. Not AI, not genomics, not space exploration. Because as we know from history, technological advancement for its own sake ends up badly.
 
 If we **advance technology without re-questioning and re-building the fabric of our society, we will end up with great technology but no freedom**, and thus no humanity.
 
