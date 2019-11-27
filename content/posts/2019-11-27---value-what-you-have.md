@@ -1,4 +1,4 @@
-\---
+---
 
 title: Value what you have
 
@@ -14,9 +14,7 @@ category: "Life"
 
 description: "To value what you have, remember its worth every day"
 
-
-
-\---
+---
 
 I track my mood every day — two times, when I wake up, and when I go to sleep.
 
