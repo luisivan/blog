@@ -16,7 +16,7 @@ description: "To value what you have, remember its worth every day"
 
 ---
 
-I track my mood every day — two times, when I wake up, and when I go to sleep.
+I track my mood every day — when I wake up, and when I go to sleep.
 
 It helps me see how I felt during previous stages of my life, and it also helps me introspect and ask myself: *how are you feeling now?*
 
