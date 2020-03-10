@@ -14,11 +14,11 @@ module.exports = {
     },
     {
       label: 'Request for startups',
-      path: '/pages/rfs'
+      path: '/rfs'
     },
     {
       label: 'About me',
-      path: '/pages/about'
+      path: '/about'
     }
   ],
   author: {
