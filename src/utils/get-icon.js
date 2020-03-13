@@ -25,6 +25,7 @@ const getIcon = (name: string) => {
       break;
     case 'keybase':
       icon = ICONS.KEYBASE;
+      break;
     case 'linkedin':
       icon = ICONS.LINKEDIN;
       break;

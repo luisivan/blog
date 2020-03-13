@@ -20,6 +20,7 @@ const getContactHref = (name: string, contact: string) => {
       break;
     case 'keybase':
       href = `https://keybase.io/${contact}`;
+      break;
     case 'linkedin':
       href = `https://www.linkedin.com/in/${contact}`;
       break;
