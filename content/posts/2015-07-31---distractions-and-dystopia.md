@@ -3,7 +3,7 @@ title: Distractions and dystopia
 date: "2015-07-31"
 template: "post"
 draft: false
-slug: "/distractions-and-dystopia"
+slug: "distractions-and-dystopia"
 category: "Society"
 description: ""
 ---

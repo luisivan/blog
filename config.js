@@ -7,6 +7,7 @@ module.exports = {
   copyright: '',
   disqusShortname: '',
   postsPerPage: 5,
+  pathPrefix: '/',
   menu: [
     {
       label: 'Posts',
@@ -34,7 +35,7 @@ module.exports = {
       twitter: 'licuende',
       github: 'luisivan',
       keybase: 'li',
-      rss: '#',
+      rss: '/rss.xml',
     }
   }
 };

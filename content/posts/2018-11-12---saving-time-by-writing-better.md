@@ -3,7 +3,7 @@ title: Saving time by writing better
 date: "2018-11-12"
 template: "post"
 draft: false
-slug: "/saving-time-by-writing-better-11bce34f4631"
+slug: "saving-time-by-writing-better-11bce34f4631"
 category: "Productivity"
 tags:
   - "Productivity"

@@ -3,7 +3,7 @@ title: Disintermediating marketplaces
 date: "2017-07-17"
 template: "post"
 draft: false
-slug: "/disintermediating-marketplaces-e614e4b63944"
+slug: "disintermediating-marketplaces-e614e4b63944"
 category: "Crypto"
 description: "Why I am advising district0x"
 ---

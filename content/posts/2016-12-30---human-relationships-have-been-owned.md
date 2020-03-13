@@ -3,7 +3,7 @@ title: Human relationships have been owned
 date: "2016-12-30"
 template: "post"
 draft: false
-slug: "/human-relationships-have-been-owned-1ff27da0a63"
+slug: "human-relationships-have-been-owned-1ff27da0a63"
 category: "Society"
 description: ""
 ---

@@ -1,4 +1,4 @@
-// @flow
+// @flow strict
 import React from 'react';
 import { getContactHref, getIcon } from '../../../utils';
 import Icon from '../../Icon';
@@ -13,7 +13,7 @@ type Props = {
 const Contacts = ({ contacts }: Props) => (
   <div className={styles['contacts']}>
     <ul className={styles['contacts__list']}>
-      {Object.keys(contacts).map((name) => (
+      {Object.keys(contacts).map((name) => (!contacts[name] ? null : (
         <li className={styles['contacts__list-item']} key={name}>
           <a
             className={styles['contacts__list-item-link']}
@@ -21,10 +21,10 @@ const Contacts = ({ contacts }: Props) => (
             rel="noopener noreferrer"
             target="_blank"
           >
-            <Icon icon={getIcon(name)} />
+            <Icon name={name} icon={getIcon(name)} />
           </a>
         </li>
-      ))}
+      )))}
     </ul>
   </div>
 );

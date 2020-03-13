@@ -1,19 +1,11 @@
 ---
-
 title: Value what you have
-
 date: "2019-11-27"
-
 template: "post"
-
 draft: false
-
-slug: "/value-what-you-have"
-
+slug: "value-what-you-have"
 category: "Life"
-
 description: "To value what you have, remember its worth every day"
-
 ---
 
 I track my mood every day — when I wake up, and when I go to sleep.

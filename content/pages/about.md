@@ -1,6 +1,7 @@
 ---
 title: "About me"
 template: "page"
+socialImage: "/media/sand.jpg"
 ---
 
 ![The way forward](/media/sand.jpg)

@@ -3,7 +3,7 @@ title: Facebook serving fake news is not the problem we should look at
 date: "2017-01-06"
 template: "post"
 draft: false
-slug: "/facebook-serving-fake-news-is-not-the-problem-we-should-look-at-88b9f51212dc"
+slug: "facebook-serving-fake-news-is-not-the-problem-we-should-look-at-88b9f51212dc"
 category: "Society"
 description: ""
 ---

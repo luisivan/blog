@@ -3,7 +3,7 @@ title: A series on personal productivity
 date: "2018-08-13"
 template: "post"
 draft: false
-slug: "/a-series-on-personal-productivity-640397638e8"
+slug: "a-series-on-personal-productivity-640397638e8"
 category: "Productivity"
 description: "Tips and tricks on how to increase work output while being healthy and happy"
 ---

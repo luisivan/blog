@@ -1,19 +1,12 @@
 ---
-
 title: Digital scarcity
-
 date: "2020-03-10"
-
 template: "post"
-
 draft: false
-
-slug: "/digital-scarcity"
-
+slug: "digital-scarcity"
 category: "Crypto"
-
 description: "How NFTs just clicked for me"
-
+socialImage: /media/rocks.jpg
 ---
 
 ![](/media/rocks.jpg)

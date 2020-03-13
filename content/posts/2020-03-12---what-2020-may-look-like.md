@@ -1,19 +1,11 @@
 ---
-
 title: What 2020 may look like
-
 date: "2020-03-12"
-
 template: "post"
-
 draft: false
-
-slug: "/what-2020-may-look-like"
-
+slug: "what-2020-may-look-like"
 category: "Life"
-
 description: "A view into social and economic factors for 2020"
-
 ---
 
 We were already seeing signs of a recession, and then [inversion of the yield curve happened](https://www.thebalance.com/inverted-yield-curve-3305856) — confirming the fears.

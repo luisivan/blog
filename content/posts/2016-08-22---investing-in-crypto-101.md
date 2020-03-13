@@ -3,7 +3,7 @@ title: Investing in crypto 101
 date: "2016-08-22"
 template: "post"
 draft: false
-slug: "/investing-in-crypto-101-679c6c64ef46"
+slug: "investing-in-crypto-101-679c6c64ef46"
 category: "Crypto"
 tags:
   - "Money"

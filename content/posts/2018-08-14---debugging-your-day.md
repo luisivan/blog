@@ -3,7 +3,7 @@ title: Debugging your day
 date: "2018-08-14"
 template: "post"
 draft: false
-slug: "/debugging-your-day-f293b52b24d0"
+slug: "debugging-your-day-f293b52b24d0"
 category: "Productivity"
 tags:
   - "Productivity"

@@ -3,7 +3,7 @@ title: Three years of fighting for freedom
 date: "2019-11-11"
 template: "post"
 draft: false
-slug: "/three"
+slug: "three"
 category: "Crypto"
 tags:
   - Aragon

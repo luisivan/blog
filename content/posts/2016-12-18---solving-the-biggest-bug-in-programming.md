@@ -3,7 +3,7 @@ title: Solving the biggest bug in programming
 date: "2016-12-18"
 template: "post"
 draft: false
-slug: "/solving-the-biggest-bug-in-programming-471dfbb411f0"
+slug: "solving-the-biggest-bug-in-programming-471dfbb411f0"
 category: "Programming"
 description: ""
 ---

@@ -3,7 +3,7 @@ title: Expectations and happiness
 date: "2019-06-03"
 template: "post"
 draft: false
-slug: "/expectations-and-happiness"
+slug: "expectations-and-happiness"
 category: "Life"
 description: "Happiness = reality - expectations"
 ---

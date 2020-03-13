@@ -3,7 +3,7 @@ title: Not Earth, not Mars, no planet will be our home
 date: "2017-08-13"
 template: "post"
 draft: false
-slug: "/not-earth-not-mars-no-planet-will-be-our-home-7f310de93c53"
+slug: "not-earth-not-mars-no-planet-will-be-our-home-7f310de93c53"
 category: "Crypto"
 description: "Thriving as species could be more efficient by creating a new world rather than conquering the current one"
 ---

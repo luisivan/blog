@@ -3,7 +3,7 @@ title: Subconscious manipulation
 date: "2014-08-06"
 template: "post"
 draft: false
-slug: "/subconscious-manipulation-ef397dca934b"
+slug: "subconscious-manipulation-ef397dca934b"
 category: "Society"
 description: ""
 ---

@@ -3,7 +3,7 @@ title: Bitcoin Unlimited is a bug by itself
 date: "2017-03-22"
 template: "post"
 draft: false
-slug: "/bitcoin-unlimited-is-a-bug-by-itself-bfa959acf365"
+slug: "bitcoin-unlimited-is-a-bug-by-itself-bfa959acf365"
 category: "Crypto"
 tags:
   - "Bitcoin"

@@ -3,7 +3,7 @@ title: Setting daily and weekly goals
 date: "2018-09-13"
 template: "post"
 draft: false
-slug: "/setting-daily-and-weekly-goals-ee71dc807f08"
+slug: "setting-daily-and-weekly-goals-ee71dc807f08"
 category: "Productivity"
 tags:
   - "Productivity"

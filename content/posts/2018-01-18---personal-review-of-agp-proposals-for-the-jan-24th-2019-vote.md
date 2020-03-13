@@ -3,7 +3,7 @@ title: Personal review of AGP proposals for the Jan 24th, 2019 vote
 date: "2018-01-18"
 template: "post"
 draft: false
-slug: "/personal-review-of-agp-proposals-for-the-jan-24th-2019-vote-a25bc53507b6"
+slug: "personal-review-of-agp-proposals-for-the-jan-24th-2019-vote-a25bc53507b6"
 category: "Crypto"
 tags:
   - "Aragon"

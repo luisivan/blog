@@ -3,7 +3,7 @@ title: The sorry state of the blockchain
 date: "2016-05-03"
 template: "post"
 draft: false
-slug: "/the-sorry-state-of-the-blockchain-7214cc856138"
+slug: "the-sorry-state-of-the-blockchain-7214cc856138"
 category: "Crypto"
 description: ""
 ---

@@ -3,7 +3,7 @@ title: Being healthy and how it increases productivity
 date: "2019-05-10"
 template: "post"
 draft: false
-slug: "/being-healthy-and-how-it-increases-productivity-9c26c4fa8cc5"
+slug: "being-healthy-and-how-it-increases-productivity-9c26c4fa8cc5"
 category: "Productivity"
 tags:
   - "Productivity"

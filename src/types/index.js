@@ -1,9 +1,14 @@
-// @flow
+// @flow strict
 import type { Node as ReactNode } from 'react';
 
-export type RenderCallback = (data: any) => ReactNode;
+export type RenderCallback = {
+  // $FlowFixMe
+  render: (data: any) => ReactNode;
+}
 
-export type Entry = (string[]) => string;
+export type Entry = {
+  getIn: (string[]) => string;
+}
 
 export type WidgetFor = (string) => string;
 
@@ -29,6 +34,7 @@ export type Node = {
     category?: string,
     tags?: string[],
     title: string,
+    socialImage?: string
   },
   html: string,
   id: string

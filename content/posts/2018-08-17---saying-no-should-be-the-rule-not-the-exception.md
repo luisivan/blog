@@ -3,7 +3,7 @@ title: Saying no should be the rule, not the exception
 date: "2018-08-17"
 template: "post"
 draft: false
-slug: "/saying-no-should-be-the-rule-not-the-exception-be8828110ea"
+slug: "saying-no-should-be-the-rule-not-the-exception-be8828110ea"
 category: "Productivity"
 tags:
   - "Productivity"

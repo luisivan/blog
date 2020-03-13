@@ -3,7 +3,7 @@ title: Idea for a decentralized, open source platform for deep machine learning 
 date: "2017-01-25"
 template: "post"
 draft: false
-slug: "/idea-for-a-decentralized-open-source-platform-for-deep-machine-learning-advancement-b5b031e8f6f7"
+slug: "idea-for-a-decentralized-open-source-platform-for-deep-machine-learning-advancement-b5b031e8f6f7"
 category: "Crypto"
 tags:
   - "AI"

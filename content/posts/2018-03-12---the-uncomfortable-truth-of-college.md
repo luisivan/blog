@@ -3,7 +3,7 @@ title: The uncomfortable truth of college
 date: "2018-03-12"
 template: "post"
 draft: false
-slug: "/the-uncomfortable-truth-of-college-6822d4cb2db7"
+slug: "the-uncomfortable-truth-of-college-6822d4cb2db7"
 category: "Society"
 tags:
   - "Education"
