@@ -28,7 +28,7 @@ When traditional credentialism fails, we need a new way for the mainstream to ac
 
 But there is **a DAO structure to tackle this problem** — Expert DAOs.
 
-Expert DAOs aren't a new concept, and some Aragon team members have been thinking about this for a while. But the concept is more relevant now than ever.
+Expert DAOs aren't a new concept — some Aragon team members have been thinking about this for a while. But the concept is more relevant now than ever.
 
 ## A grassroots approach to truth
 
