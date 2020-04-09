@@ -5,7 +5,7 @@ template: "post"
 draft: false
 slug: "expert-daos"
 category: "Crypto"
-description: "Expert DAOs allow for the formation of bottom-up clusters of experts that can cryptographically attest truth"
+description: "Expert DAOs allow for the bottom-up formation of clusters of experts that can cryptographically attest truth"
 ---
 
 Fake news are here to stay. People don't know who to believe anymore. Decision making based on fake news may not be a big deal for low-stake scenarios, but when human life is on the line, it is.
