@@ -12,13 +12,13 @@ Fake news are here to stay. People don't know who to believe anymore. Decision m
 
 Fake news have accelerated the **failure of democracy**, as shown by the US.
 
-Since we know that this new threat is here to stay — it is so cheap and easy to manufacture fake news — what can we build that helps us fight against them?
+Since we know that this new threat is here to stay — it is so cheap and easy to manufacture fake news — what can we build that helps us defeat them?
 
 Life itself is a **quest for truth**. But our own cognitive biases, combined with our vulnerabilities, make us highly irrational and confuse us in our search for truth.
 
 While technology cannot change human nature, it can help **shape our behavior** in our quest for truth.
 
-Fake news have proliferated in a **highly specialized world**. Because of markets incentivizing specialization of labor, we all know a lot about specific topics. For other topics, we may have **blind spots**. When we have those blind spots, it's easier for us to believe whatever other people feed us.
+Fake news have proliferated in a **highly specialized world**. Because of markets incentivizing specialization of labor, we all know a lot about specific topics. For other topics, we may have **blind spots**. When we have those blind spots, it’s easier for us to believe what others want us to believe.
 
 Again, I don't think we can change that. But we can **make it easier for us to recognize who to believe**.
 
@@ -38,7 +38,7 @@ These clusters would be akin to membership clubs, with the members being recogni
 
 Each member would have a private key on Ethereum, so that they can sign messages with minimal risk of tampering — remember that **deepfakes can already tamper video and photo proofs**.
 
-One of the experts would then **submit a piece of information to the DAO**. It could be as simple as a document with a few paragraphs explaining how people can protect from COVID-19.
+One of the experts would then **submit a piece of information to the DAO**. It could be as simple as a document with a few paragraphs explaining how people can protect themselves from COVID-19.
 
 Each member reviews it and votes on that piece of information. If the vote passes, the piece of information gets released on a **public feed**. Everyone can verify that the piece of information has been voted as true by members, who have their **social capital** on the line.
 
@@ -50,15 +50,18 @@ No modifications are required, it can be done out of the box.
 
 Votes can point to a document in IPFS to make sure that the information can be accessed from anywhere by anyone — even behind firewalls.
 
-The only thing that would be needed is a simple public feed where people can see the pieces of information verified by the Expert DAOs. Trivial to implement.
+The only thing that would be needed is a simple public feed — even using Twitter — where people can see the pieces of information verified by the Expert DAOs. Trivial to implement.
 
 ## Future
 
-After the concept is proven to work, we may then have an aggregator of all of the Expert DAOs **by topic**. You may be able to filter **by reputation** as well. How would be reputation calculated?
+After the concept is proven to work, we may then have an aggregator of all of the Expert DAOs **by topic**. You may be able to filter **by reputation** as well. But how would reputation be calculated?
 
 Simple: if a piece of information turns out to be wrong, anyone can open a dispute in [Aragon Court](https://aragon.org/aragon-court/).
 
 As time goes on, those who turned out to be right get rewarded with reputation, and those who were wrong get penalized.
+
+We may also seek to integrate other open source reputation protocols such as [SourceCred](https://sourcecred.io/) — already integrated with Aragon — into the expert network and filtering system. 
+
 
 ## Summary
 
