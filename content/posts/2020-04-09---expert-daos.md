@@ -26,7 +26,7 @@ Again, I don't think we can change that. But we can **make it easier for us to r
 
 When traditional credentialism fails, we need a new way for the mainstream to access curated truth.
 
-Today, I am proposing **a DAO structure to tackle this problem** — Expert DAOs.
+But there is **a DAO structure to tackle this problem** — Expert DAOs.
 
 Expert DAOs aren't a new concept, and some Aragon team members have been thinking about this for a while. But the concept is more relevant now than ever.
 
