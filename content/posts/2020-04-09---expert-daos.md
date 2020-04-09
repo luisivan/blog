@@ -8,17 +8,17 @@ category: "Crypto"
 description: "Expert DAOs allow for the bottom-up formation of clusters of experts that can cryptographically attest truth"
 ---
 
-Fake news are here to stay. People don't know who to believe anymore. Decision making based on fake news may not be a big deal for low-stake scenarios, but when human life is on the line, it is.
+Disinformation via fake news is here to stay. People don't know who to believe anymore. Decision making based on fake news may not be a big deal for low-stake scenarios, but when human life is on the line, it is.
 
-Fake news have accelerated the **failure of democracy**, as shown by the US.
+Fake news has accelerated the **failure of democracy**, as shown by the US.
 
-Since we know that this new threat is here to stay — it is so cheap and easy to manufacture fake news — what can we build that helps us defeat them?
+Since we know this new threat is here to stay — it is so cheap and easy to manufacture fake news — what can we build that helps us defeat them?
 
 Life itself is a **quest for truth**. But our own cognitive biases, combined with our vulnerabilities, make us highly irrational and confuse us in our search for truth.
 
 While technology cannot change human nature, it can help **shape our behavior** in our quest for truth.
 
-Fake news have proliferated in a **highly specialized world**. Because of markets incentivizing specialization of labor, we all know a lot about specific topics. For other topics, we may have **blind spots**. When we have those blind spots, it’s easier for us to believe what others want us to believe.
+Fake news has proliferated in a **highly specialized world**. Because of markets incentivizing specialization of labor, we all know a lot about specific topics. For other topics, we may have **blind spots**. When we have those blind spots, it’s easier for us to believe what others want us to believe.
 
 Again, I don't think we can change that. But we can **make it easier for us to recognize who to believe**.
 
