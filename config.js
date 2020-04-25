@@ -21,6 +21,10 @@ module.exports = {
       label: 'About me',
       path: '/pages/about'
     }
+    {
+      label: 'Twitter',
+      path: 'https://twitter.com/licuende'
+    }
   ],
   author: {
     name: 'Luis Cuende',
