@@ -30,7 +30,7 @@ const Post = ({ post }: Props) => {
         <Meta date={date} />
         {tags && tagSlugs && <Tags tags={tags} tagSlugs={tagSlugs} />}
         <Author />
-        <iframe src="https://thoughtcrime.substack.com/embed" width="100%" height="320" frameborder="0" scrolling="no"></iframe>
+        <iframe src="https://thoughtcrime.substack.com/embed" width="100%" height="72" frameborder="0" scrolling="no"></iframe>
       </div>
 
       <div className={styles['post__comments']}>
