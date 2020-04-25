@@ -2,7 +2,7 @@
 
 module.exports = {
   url: 'https://luisivan.net',
-  title: 'Thoughtcrime',
+  title: 'Luis Cuende',
   subtitle: 'Free thoughts by Luis Cuende',
   copyright: '',
   disqusShortname: '',
@@ -25,10 +25,8 @@ module.exports = {
   author: {
     name: 'Luis Cuende',
     photo: '/photo.jpg',
-    bio: 'Executive Director of the Aragon Association. Cofounder of <a target="_blank" href="https://aragon.org">Aragon</a>. Freedom fighter.',
-    homeBio: `Executive Director of the Aragon Association.
-              <br>
-              Cofounder of <a target="_blank" href="https://aragon.org">Aragon</a>.
+    bio: 'Cofounder of <a target="_blank" href="https://aragon.org">Aragon</a>. Freedom fighter.',
+    homeBio: `Cofounder of <a target="_blank" href="https://aragon.org">Aragon</a>.
               <br>
               Freedom fighter.`,
     contacts: {
