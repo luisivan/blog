@@ -19,7 +19,7 @@ const Sidebar = ({ isIndex }: Props) => {
         <Author author={author} isIndex={isIndex} />
         <Menu menu={menu} />
         <iframe src="https://thoughtcrime.substack.com/embed" frameborder="0" scrolling="no"
-                style={{ width: '125%', maxWidth: 320, height: 72, marginLeft: '-2.5rem', transform: 'scale(0.8)' }}></iframe>
+                style={{ width: '125%', maxWidth: 320, height: 115, marginLeft: '-2.5rem', transform: 'scale(0.8)' }}></iframe>
         <Copyright copyright={copyright} />
       </div>
     </div>
