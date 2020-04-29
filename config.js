@@ -25,10 +25,10 @@ module.exports = {
   author: {
     name: 'Luis Cuende',
     photo: '/photo.jpg',
-    bio: 'Cofounder of <a target="_blank" href="https://aragon.org">Aragon</a>. Freedom fighter.',
+    bio: 'Cofounder of <a target="_blank" href="https://aragon.org">Aragon</a>. Fighting for freedom.',
     homeBio: `Cofounder of <a target="_blank" href="https://aragon.org">Aragon</a>.
               <br>
-              Freedom fighter.`,
+              Fighting for freedom.`,
     contacts: {
       twitter: 'licuende',
       github: 'luisivan',
