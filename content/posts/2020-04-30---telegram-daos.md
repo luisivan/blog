@@ -6,6 +6,7 @@ draft: false
 slug: "telegram-daos"
 category: "Crypto"
 description: "Let's go where existing internet communities live and supercharge them with crypto. Let's take DAOs to Telegram!"
+socialImage: /media/cells.jpg
 ---
 
 ![](/media/cells.jpg)
@@ -26,7 +27,7 @@ But we shouldn't negate that social media platforms are the **largest distributi
 
 
 
->  If you can't fight them join them
+>  If you can't fight them, join them
 
 
 
