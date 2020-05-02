@@ -15,10 +15,6 @@ module.exports = {
       path: '/'
     },
     {
-      label: 'Request for startups',
-      path: '/pages/rfs'
-    },
-    {
       label: 'About me',
       path: '/pages/about'
     }

@@ -57,8 +57,8 @@
       text-align: left;
       font-size: 1.25rem;
       @include line-height(1.25);
-      @include margin(2.5, 0);
-      @include padding(0, 0.5);
+      @include margin(1.125, 0);
+      @include padding(0, 0.66);
       border-left: 4px $color-secondary solid;
     }
 
@@ -90,11 +90,6 @@
         font-size: $typographic-base-font-size * 1.125;
         @include line-height(1.125);
         @include margin-bottom(1.125)
-      }
-
-      & blockquote > p {
-        @include margin(2.5, 0);
-        @include padding(0, 2);
       }
     }
 
