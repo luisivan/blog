@@ -71,4 +71,6 @@ With an adequate discovery platform Expert DAOs may become the canonical place f
 
 Interested in building this? [DMs are open!](https://twitter.com/licuende)
 
+PS: Someone is already building this! Check out [Research Collective](https://www.researchcollective.io).
+
 *Inspired by Joel Monegro, Mario Laul and Joe Charlesworth*
