@@ -104,12 +104,6 @@ module.exports = {
         plugins: [
           'gatsby-remark-relative-images',
           {
-            resolve: 'gatsby-remark-katex',
-            options: {
-              strict: 'ignore'
-            }
-          },
-          {
             resolve: 'gatsby-remark-images',
             options: {
               maxWidth: 960,
@@ -130,7 +124,12 @@ module.exports = {
       }
     },
     'gatsby-transformer-sharp',
-    'gatsby-plugin-sharp',
+    {
+      resolve: `gatsby-plugin-sharp`,
+      options: {
+        stripMetadata: true,
+      },
+    },
     'gatsby-plugin-netlify',
     {
       resolve: 'gatsby-plugin-netlify-cms',
