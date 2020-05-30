@@ -13,7 +13,7 @@ Even with the right people and the right vision, a product can still fail in get
 
 As a natural optimist, I have always underestimated the amount of time that markets take to evolve.
 
-We can observe this in our day to day. In every market, you can find **superior products that lag behind in adoption** comparing them with the incumbents. Why is that? Why are people using an inferior product if a superior one is available? There are many reasons, but they all come from the same root cause: **rate of change**. I’m referring to rate of change as how fast the market can adjust itself to its most optimal state. Rate of change is how fast people drop SMS for messaging apps, fuel cars for electric cars, upgrade from Windows XP to the newest version, or even drop in-person work for remote work.
+We can observe this in our day to day. In every market, you can find **superior products that lag behind in adoption** comparing them with the incumbents. Why is that? Why are people using an inferior product if a superior one is available? There are many reasons, but they come from the same root cause: **rate of change**. I’m referring to rate of change as how fast the market can adjust itself to its most optimal state. Rate of change is how fast people drop SMS for messaging apps, fuel cars for electric cars, upgrade from Windows XP to the newest version, or even drop in-person work for remote work.
 
 Rate of change varies a lot depending on the demographic: **geeks and teens** are usually the fastest, while others move slower.
 
