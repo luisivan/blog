@@ -36,3 +36,8 @@ Advising/advised:
 - [district0x](https://district0x.io)
 - [Primitive](http://primitive.io)
 - [European Commission](http://ec.europa.eu/transparency/regexpert/index.cfm?do=memberDetail.memberDetail&memberID=44682&orig=group)
+
+Investments:
+- [Ramp](https://ramp.network) (seed)
+- [Guesser](https://guesser.com/) (seed)
+- [Dune Analytics](https://www.duneanalytics.com/) (seed)
