@@ -48,7 +48,7 @@ That's not only 50,000 (75,000 Twitter followers - 25,000 existing ANT holders) 
 
 Meet the *tweetdrop*.
 
-Then, after fetching all the tweets using Twitter's API, a Merkle drop can be constructed and with its [corresponding Merkle distributor](https://github.com/Uniswap/merkle-distributor) for redeeming the tokens. And that's it.
+Then, after fetching all the tweets using Twitter's API, a Merkle tree can be constructed and with its [corresponding Merkle distributor](https://github.com/Uniswap/merkle-distributor) for redeeming the tokens. And that's it.
 
 ## The caveat
 
