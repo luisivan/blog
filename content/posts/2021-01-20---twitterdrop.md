@@ -58,4 +58,4 @@ But in 2020, exploring new ways of distributing network ownership became a trend
 
 We are just scratching the surface of token distribution mechanisms, and it is a matter of time that they will leverage social media.
 
-*I will likely propose for Aragon to do a tweetdrop in the future, if there is strong community interest.*
+*In the future, I might propose for the Aragon Network to do a tweetdrop and a token distribution to DAO users, if there is community interest.*
