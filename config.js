@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://luisivan.net',
+  url: 'https://luisc.xyz',
   title: 'Luis Cuende',
   subtitle: 'Free thoughts by Luis Cuende',
   copyright: '',
