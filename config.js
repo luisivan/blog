@@ -12,7 +12,7 @@ module.exports = {
   menu: [
     {
       label: 'Posts',
-      path: '/'
+      path: '/page/0'
     },
     {
       label: 'About',
@@ -32,5 +32,12 @@ module.exports = {
       keybase: 'li',
       rss: '/rss.xml',
     }
-  }
+  },
+  featured: [
+    'tweetdrop',
+    'telegram-daos',
+    'crypto-ux',
+    'a-series-on-personal-productivity-640397638e8',
+    'the-uncomfortable-truth-of-college-6822d4cb2db7',
+  ]
 };
