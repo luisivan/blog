@@ -14,8 +14,6 @@ type Props = {
 };
 
 const IndexTemplate = ({ data, pageContext }: Props) => {
-  console.log(data)
-  console.log(pageContext)
   const { title: siteTitle, subtitle: siteSubtitle } = useSiteMetadata();
 
   const { edges } = data.allMarkdownRemark;
