@@ -28,7 +28,7 @@ module.exports = async (graphql, actions) => {
         prevPagePath: `/page/${i - 1}`,
         nextPagePath: `/page/${i + 1}`,
         hasPrevPage: i !== 0,
-        hasNextPage: i !== numPages
+        hasNextPage: i !== numPages - 1
       }
     });
   }
