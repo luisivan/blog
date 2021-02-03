@@ -8,15 +8,13 @@ socialImage: "/media/sand.jpg"
 
 I am a freedom fighter creating tools for human liberation.
 
-I love technology, music and design. I also enjoy long-term thinking and writing.
+I believe that crypto is our chance to escape a technological dystopia and supersede the corrupt system that let it happen. We need open source technology that enables social change and has built-in economic incentives to propagate.
 
-I have strong opinions, weakly held.
+My most recent work has been in [Aragon](https://aragon.org), which I co-founded in 2016. Aragon is the leading decentralized governance platform, enabling Internet communities and institutions to empower their stakeholders. Aragon's technology secures more than $650m in assets and enables hundreds of thousands to participate in governance.
 
-Founded:
-- [Aragon](https://aragon.org)
-- [Witnet](https://witnet.io) + [Stampery](https://stampery.com)
-- A handful of failed startups
-- [Asturix](https://en.wikipedia.org/wiki/Asturix)
+Before Aragon, I co-founded [Stampery](https://stampery.com), a pioneer in blockchain timestamping, in 2014. The company  pivoted into [Witnet](https://witnet.io), a decentralized oracle network.
+
+I started my career working on free software, founding a Linux distribution called [Asturix](https://en.wikipedia.org/wiki/Asturix) in 2008, when I was 12 years old. During those early years, I co-founded multiple failed startups, advised the European Commission and learned a lot!
 
 Whitepapers:
 - [Aragon Network: A decentralized infrastructure for value exchange (2017)](https://github.com/aragon/whitepaper/raw/v1/Aragon%20Whitepaper.pdf)
@@ -28,15 +26,13 @@ Awards and recognitions:
 - [Forbes 30 Under 30](http://www.forbes.com/30-under-30-europe-2016/technology/)
 - [Best underage hacker of Europe (2011)](https://blog.hackfwd.com/post/10517597027/hacknow-winner-luis-iván-cuende)
 
-Investments:
-
-- [Ramp](https://ramp.network) (seed)
-- [Guesser](https://guesser.com/) (seed)
-- [Dune Analytics](https://www.duneanalytics.com/) (seed)
-
-Advising/advised:
+Angel and advisory:
 
 - [Keep Network](https://keep.network)
+- [Dune Analytics](https://www.duneanalytics.com/)
+- [Ramp](https://ramp.network)
+- [Guesser](https://guesser.com/)
+
 - [Decentraland](https://decentraland.org)
 - [Status](https://status.im)
 - [district0x](https://district0x.io)
