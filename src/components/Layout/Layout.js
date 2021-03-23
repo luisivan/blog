@@ -4,7 +4,7 @@ import Helmet from 'react-helmet';
 import type { Node as ReactNode } from 'react';
 import { useSiteMetadata } from '../../hooks';
 import styles from './Layout.module.scss';
-const siteConfig = require('../../../config.js');
+import splitbee from '@splitbee/web';
 
 type Props = {
   children: ReactNode,
@@ -22,6 +22,8 @@ const Layout = ({
   const { author, url } = useSiteMetadata();
   const metaImage = typeof socialImage !== 'undefined' ? socialImage : author.photo;
   const metaImageUrl = url + metaImage;
+
+  splitbee.init();
 
   return (
     <div className={styles.layout}>
