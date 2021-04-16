@@ -6,7 +6,7 @@ draft: false
 slug: "stolen-future"
 category: "Crypto"
 description: "Once upon a time, society saw technological progress as the way to free people from 9-to-5 jobs. Where did that dream go?"
-socialImage: "/media/utopia.jpg"
+socialImage: "/media/utopia.png"
 ---
 
 Once upon a time, society saw technological progress as the way to free people from 9-to-5 jobs. Where did that dream go?
