@@ -33,7 +33,7 @@ module.exports = {
     }
   },
   featured: [
-    'tweetdrop',
+    'stolen-future',
     'telegram-daos',
     'crypto-ux',
     'a-series-on-personal-productivity-640397638e8',
