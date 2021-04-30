@@ -83,7 +83,7 @@ To deploy to github pages, simply do the following:
 - Run the standard deploy command
 
 ```sh
-npm run deploy
+yarn deploy
 ```
 
 
@@ -92,11 +92,11 @@ npm run deploy
 $ git clone https://github.com/[GITHUB_USERNAME]/[REPO_NAME].git
 $ cd [REPO_NAME]
 $ yarn
-$ npm run develop
+$ yarn develop
 ```
 To test the CMS locally, you'll need run a production build of the site:
 ```
-$ npm run build
+$ yarn build
 $ gatsby serve
 ```
 
@@ -143,8 +143,8 @@ $ gatsby serve
 
 Development efforts are supported by the sponsors. I'm very grateful for their donations, please check them out!
 
-| <a href="https://jetbrains.com" target="_blank"><img width="100" src="https://raw.githubusercontent.com/JetBrains/logos/master/web/jetbrains/jetbrains.svg"></a>  | <a href="https://www.browserstack.com" target="_blank"><img width="250" src="https://gist.githubusercontent.com/alxshelepenok/94cbc6dc4a2cb8167ee188ddab33893a/raw/f869c9a67db7bfd5440a49178195efe811d8f7d8/browserstack.svg"></a> |
-:---: |:---: |
+| <a href="https://jetbrains.com" target="_blank"><img width="100" src="https://raw.githubusercontent.com/JetBrains/logos/master/web/jetbrains/jetbrains.svg"></a>  | <a href="https://www.browserstack.com" target="_blank"><img width="250" src="https://gist.githubusercontent.com/alxshelepenok/94cbc6dc4a2cb8167ee188ddab33893a/raw/f869c9a67db7bfd5440a49178195efe811d8f7d8/browserstack.svg"></a> | <a href="https://sentry.io" target="_blank"><img width="250" src="https://gist.githubusercontent.com/alxshelepenok/1a74dbe123b2f7ad538f41c94e2da0a2/raw/aaeb3b38ef0873bae1f23f3605696b4e65362e67/sentry.svg"></a> |
+:---: |:---: |:---: |
 
 ## Contributors
 Thanks goes to these wonderful people!
