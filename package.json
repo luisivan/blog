@@ -57,6 +57,7 @@
     "gatsby-plugin-sass": "^2.3.12",
     "gatsby-plugin-sharp": "^2.6.35",
     "gatsby-plugin-sitemap": "^2.4.12",
+    "gatsby-plugin-twitter": "^3.4.0",
     "gatsby-remark-autolink-headers": "^2.3.12",
     "gatsby-remark-copy-linked-files": "^2.3.14",
     "gatsby-remark-external-links": "0.0.4",
