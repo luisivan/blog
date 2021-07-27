@@ -3,12 +3,28 @@
 const _ = require('lodash');
 const { createFilePath } = require('gatsby-source-filesystem');
 
+const transformFromNotion = (node) => {
+  // If prop exists, it's a Notion node
+  if (node.frontmatter.date.start !== undefined) {
+    node.frontmatter.date = new Date(node.frontmatter.date.start).toISOString().slice(0, 10);
+
+    let newTags = [];
+    for (const tag of node.frontmatter.tags) {
+      newTags.push(tag.name);
+    }
+    node.frontmatter.tags = newTags;
+  }
+}
+
 const onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions;
 
   if (node.internal.type === 'MarkdownRemark') {
     if (typeof node.frontmatter.slug !== 'undefined') {
-      const dirname = getNode(node.parent).relativeDirectory;
+      const dirname = getNode(node.parent).relativeDirectory || `${node.frontmatter.template}s`;
+
+      transformFromNotion(node);
+
       createNodeField({
         node,
         name: 'slug',

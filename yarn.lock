@@ -1045,6 +1045,13 @@
   dependencies:
     regenerator-runtime "^0.13.4"
 
+"@babel/runtime@^7.14.6":
+  version "7.14.8"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.14.8.tgz#7119a56f421018852694290b9f9148097391b446"
+  integrity sha512-twj3L8Og5SaCRCErB4x4ajbvBIVV77CGeFglHpeg5WC5FF8TZzBWXtTJ4MqaD9QszLYTtr+IsaAL2rEUevb+eg==
+  dependencies:
+    regenerator-runtime "^0.13.4"
+
 "@babel/standalone@^7.12.6":
   version "7.13.15"
   resolved "https://registry.yarnpkg.com/@babel/standalone/-/standalone-7.13.15.tgz#21d86e0bfc94bd5c43f5db5a65084337cd336c33"
@@ -2306,6 +2313,11 @@
   integrity sha512-MZPUxrmFubI36XS1DI3qmI0YdN1gks62JtFZvxR67ljjSNCeK6U08Zx4msEWOXuofgqUt6zPHSi1H9fbjR/NRA==
   dependencies:
     "@sinonjs/commons" "^1.7.0"
+
+"@splitbee/web@^0.2.4":
+  version "0.2.4"
+  resolved "https://registry.yarnpkg.com/@splitbee/web/-/web-0.2.4.tgz#173ffab42a9c4d22874d82cd580d2c114480b93f"
+  integrity sha512-LMXnN5X/jen4ssBZ8ULXckQgJVvv8Ox2brcK7g2aLrok8ISzO76+DC0b6Cierk8oIXcx/+aflbVuBaKKFqyBCg==
 
 "@stylelint/postcss-css-in-js@^0.37.2":
   version "0.37.2"
@@ -6375,6 +6387,11 @@ dot-prop@^5.2.0:
   dependencies:
     is-obj "^2.0.0"
 
+dotenv@^10.0.0:
+  version "10.0.0"
+  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-10.0.0.tgz#3d4227b8fb95f81096cdd2b66653fb2c7085ba81"
+  integrity sha512-rlBi9d8jpv9Sf1klPjNfFAuWDjKLwTIJJ/VxtoTwIR6hnZxcEOQCZg2oIL3MWBYw5GpUDKOEnND7LXTbIpQ03Q==
+
 dotenv@^8.2.0:
   version "8.2.0"
   resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-8.2.0.tgz#97e619259ada750eea3e4ea3e26bceea5424b16a"
@@ -8184,6 +8201,14 @@ gatsby-plugin-page-creator@^2.10.1:
     globby "^11.0.2"
     lodash "^4.17.20"
 
+gatsby-plugin-quotebacks@^3.6.0:
+  version "3.6.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-quotebacks/-/gatsby-plugin-quotebacks-3.6.0.tgz#a878dcce2f3b28ce63bb2f9bcba8e51648647dd9"
+  integrity sha512-sJ2wdLilILBjKXqp2U9/Di4BSkdJqNYgAtNOszDVyUoZD+rYCDlHbc/DCtXdsSqdwdhtYa1wJa838Bqnz1CH5w==
+  dependencies:
+    "@babel/runtime" "^7.12.5"
+    react-refresh "^0.10.0"
+
 gatsby-plugin-react-helmet@^3.10.0:
   version "3.10.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-react-helmet/-/gatsby-plugin-react-helmet-3.10.0.tgz#421bbee87157c351d19031d62145c2ab6c00ef94"
@@ -8235,6 +8260,13 @@ gatsby-plugin-sitemap@^2.12.0:
     minimatch "^3.0.4"
     pify "^3.0.0"
     sitemap "^1.13.0"
+
+gatsby-plugin-twitter@^3.4.0:
+  version "3.10.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-twitter/-/gatsby-plugin-twitter-3.10.0.tgz#5ddd64d3d133dbd1c66ccbe8ae0f70edcc0c46aa"
+  integrity sha512-sM4epTy+7x1WJWoX3GIjRf4gQWgnSQ23QNTZ0cD7jzZqw+PPHF4RUPZIwINJPAja/QrooA8fpfHrFmxqp998aA==
+  dependencies:
+    "@babel/runtime" "^7.14.6"
 
 gatsby-plugin-typescript@^2.12.1:
   version "2.12.1"
@@ -8447,6 +8479,15 @@ gatsby-source-filesystem@^2.11.1:
     progress "^2.0.3"
     valid-url "^1.0.9"
     xstate "^4.14.0"
+
+gatsby-source-notion-api@^0.10.0:
+  version "0.10.0"
+  resolved "https://registry.yarnpkg.com/gatsby-source-notion-api/-/gatsby-source-notion-api-0.10.0.tgz#028a3fc01ff913ccc594c64410ced8d7892f5086"
+  integrity sha512-By8G364PjmAsP+VbmRXPErz7SHojqsY4cgrNLhObQEnYDjICK+ViUADJhT6VsDKftK1itxf2SWJ9i6FYCIqBZQ==
+  dependencies:
+    node-fetch "^2.6.1"
+    or-pipets "^1.0.1"
+    yaml "^1.10.2"
 
 gatsby-telemetry@^1.10.1:
   version "1.10.1"
@@ -13775,6 +13816,11 @@ optionator@^0.9.1:
     type-check "^0.4.0"
     word-wrap "^1.2.3"
 
+or-pipets@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/or-pipets/-/or-pipets-1.0.1.tgz#0699c99f95a535614a585cd7fb3a1a216a47b5c0"
+  integrity sha512-xgIIdB4w00pbhtNPYLF/caifwbc4KrE7jy4WqiDRzRrC2g3YVR4ypRwbKRA/bXzftQEA2SK8c+wKI2R7kqKiLQ==
+
 original@>=0.0.5, original@^1.0.0:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/original/-/original-1.0.2.tgz#e442a61cffe1c5fd20a65f3261c26663b303f25f"
@@ -15539,6 +15585,11 @@ react-redux@^7.2.0:
     loose-envify "^1.4.0"
     prop-types "^15.7.2"
     react-is "^16.13.1"
+
+react-refresh@^0.10.0:
+  version "0.10.0"
+  resolved "https://registry.yarnpkg.com/react-refresh/-/react-refresh-0.10.0.tgz#2f536c9660c0b9b1d500684d9e52a65e7404f7e3"
+  integrity sha512-PgidR3wST3dDYKr6b4pJoqQFpPGNKDSCDx4cZoshjXipw3LzO7mG1My2pwEzz2JVkF+inx3xRpDeQLFQGH/hsQ==
 
 react-refresh@^0.8.3:
   version "0.8.3"
@@ -20002,7 +20053,7 @@ yaml-loader@^0.6.0:
     loader-utils "^1.4.0"
     yaml "^1.8.3"
 
-yaml@^1.10.0, yaml@^1.7.2, yaml@^1.8.3:
+yaml@^1.10.0, yaml@^1.10.2, yaml@^1.7.2, yaml@^1.8.3:
   version "1.10.2"
   resolved "https://registry.yarnpkg.com/yaml/-/yaml-1.10.2.tgz#2301c5ffbf12b467de8da2333a459e29e7920e4b"
   integrity sha512-r3vXyErRCYJ7wg28yvBY5VSoAF8ZvlcW9/BwUzEtUsjvX/DKs24dIkuwjtuprwJJHsbyUbLApepYTR1BN4uHrg==

@@ -1,5 +1,6 @@
 'use strict';
 
+require('dotenv').config();
 const siteConfig = require('./config.js');
 const postCssPlugins = require('./postcss-config.js');
 
@@ -44,6 +45,14 @@ module.exports = {
       }
     },
     {
+      resolve: 'gatsby-source-notion-api',
+      options: {
+        token: process.env.INTEGRATION_TOKEN,
+        databaseId: process.env.DATABASE_ID,
+        propsToFrontmatter: true,
+        lowerTitleLevel: true,
+      },
+    },    {
       resolve: 'gatsby-plugin-feed',
       options: {
         query: `
@@ -119,7 +128,7 @@ module.exports = {
           'gatsby-remark-copy-linked-files',
           'gatsby-remark-smartypants',
           'gatsby-remark-external-links',
-          'gatsby-plugin-quotebacks',
+          //'gatsby-plugin-quotebacks',
           'gatsby-plugin-twitter',
         ]
       }
